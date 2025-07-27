@@ -32,6 +32,7 @@ In an age of information overload, keeping up with news while maintaining fact a
 - Pickle
 
 ---
+![NewsBot](NewsBot.jpg)
 
 ##  How to Run
 
@@ -52,4 +53,4 @@ OPENAI_API_KEY=your_openai_key
 streamlit run app.py
 
 ---
-![NewsBot](NewsBot.jpg)
+
