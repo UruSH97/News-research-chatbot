@@ -51,5 +51,5 @@ OPENAI_API_KEY=your_openai_key
 # 5. Run the app
 streamlit run app.py
 
-
+---
 ![NewsBot](NewsBot.jpg)
